@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSecurity</string>
+    <string name="title_activity_lock_options">Lock Toggle</string>
+</resources>
